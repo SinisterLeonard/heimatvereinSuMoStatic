@@ -1,6 +1,6 @@
 ---
 title: Blog
-description: 'All blog posts can be found here'
+description: 'Blogbeiträge'
 layout: blog
 permalink: /blog/index.html
 ---
