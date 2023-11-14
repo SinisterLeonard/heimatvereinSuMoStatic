@@ -9,5 +9,5 @@ layout: page
 
 #### Sternenfest „Weihnachtsflair unterm Sternenmeer“
 - 03 Dezember 2023 16:00
-- Genaue Informationen folgen
 
+<iframe width="640" height="1280" src="https://cloud.heimatverein.sustrum-moor.net/apps/calendar/embed/3cawyfLimRLHk2cn"></iframe>
