@@ -1,6 +1,6 @@
 module.exports = {
   url: process.env.URL || 'https://heimatverein.sustrum-moor.net/',
-  siteName: 'Heimatverein Sustrum-Moor e.V.',
+  siteName: 'Heimatverein SuMo',
   siteDescription:
     'Heimatverein Sustrum-Moor',
   siteType: 'Person', // schema
