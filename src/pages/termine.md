@@ -19,7 +19,7 @@ layout: page
 
 - 13.10.2024 Apfelfest
 
-- 25.10.2024 Generalversammlung Heimatverein
+- ~~25.10.2024~~ 08.11.2024 Generalversammlung Heimatverein
 
 - 30.11.2024 Sternenfest „Weihnachtsflair unterm Sternenmeer“
 
