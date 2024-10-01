@@ -11,7 +11,7 @@ PG. Im Sommer dieses Jahres veranstaltete der Heimatverein (HV) Sustrum-Moor sei
 Foto: Im Heimatarchiv in Sustrum-Moor tauschten die Teilnehmer der AG Kamp de Beetse und des Heimatvereins Sustrum-Moor Erfahrungen und Informationen aus und planten weitere Kooperationen. Foto: Petra Glandorf 
 
 
-{% imagePlaceholder "./src/assets/images/2023-10-14-Besuch-von-Kamp-de-Beetse/2023-10-14-Besuch-von-Kamp-de-Beetse01.jpg", "2023-10-14-Besuch-von-Kamp-de-Beetse01" %}
-{% imagePlaceholder "./src/assets/images/2023-10-14-Besuch-von-Kamp-de-Beetse/2023-10-14-Besuch-von-Kamp-de-Beetse02.jpg", "2023-10-14-Besuch-von-Kamp-de-Beetse02" %}
-{% imagePlaceholder "./src/assets/images/2023-10-14-Besuch-von-Kamp-de-Beetse/2023-10-14-Besuch-von-Kamp-de-Beetse03.jpg", "2023-10-14-Besuch-von-Kamp-de-Beetse03" %}
-{% imagePlaceholder "./src/assets/images/2023-10-14-Besuch-von-Kamp-de-Beetse/2023-10-14-Besuch-von-Kamp-de-Beetse04.jpg", "2023-10-14-Besuch-von-Kamp-de-Beetse04" %}
+{% image "./src/assets/images/2023-10-14-Besuch-von-Kamp-de-Beetse/2023-10-14-Besuch-von-Kamp-de-Beetse01.jpg", "2023-10-14-Besuch-von-Kamp-de-Beetse01" %}
+{% image "./src/assets/images/2023-10-14-Besuch-von-Kamp-de-Beetse/2023-10-14-Besuch-von-Kamp-de-Beetse02.jpg", "2023-10-14-Besuch-von-Kamp-de-Beetse02" %}
+{% image "./src/assets/images/2023-10-14-Besuch-von-Kamp-de-Beetse/2023-10-14-Besuch-von-Kamp-de-Beetse03.jpg", "2023-10-14-Besuch-von-Kamp-de-Beetse03" %}
+{% image "./src/assets/images/2023-10-14-Besuch-von-Kamp-de-Beetse/2023-10-14-Besuch-von-Kamp-de-Beetse04.jpg", "2023-10-14-Besuch-von-Kamp-de-Beetse04" %}

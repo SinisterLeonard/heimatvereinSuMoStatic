@@ -10,9 +10,9 @@ Das erste Sustrummoorer Sternenfest
 - Laternenumzug
 - "Weihnachtsflair unterm Sternenmeer"
 
-{% imagePlaceholder "./src/assets/images/2022-11-27-Sternenfest/2022-11-27-Sternenfest01.jpg", "2022-11-27-Sternenfest01" %}
-{% imagePlaceholder "./src/assets/images/2022-11-27-Sternenfest/2022-11-27-Sternenfest02.jpg", "2022-11-27-Sternenfest02" %}
-{% imagePlaceholder "./src/assets/images/2022-11-27-Sternenfest/2022-11-27-Sternenfest03.jpg", "2022-11-27-Sternenfest03" %}
-{% imagePlaceholder "./src/assets/images/2022-11-27-Sternenfest/2022-11-27-Sternenfest04.jpg", "2022-11-27-Sternenfest04" %}
-{% imagePlaceholder "./src/assets/images/2022-11-27-Sternenfest/2022-11-27-Sternenfest05.jpg", "2022-11-27-Sternenfest05" %}
-{% imagePlaceholder "./src/assets/images/2022-11-27-Sternenfest/2022-11-27-Sternenfest06.jpg", "2022-11-27-Sternenfest06" %}
+{% image "./src/assets/images/2022-11-27-Sternenfest/2022-11-27-Sternenfest01.jpg", "2022-11-27-Sternenfest01" %}
+{% image "./src/assets/images/2022-11-27-Sternenfest/2022-11-27-Sternenfest02.jpg", "2022-11-27-Sternenfest02" %}
+{% image "./src/assets/images/2022-11-27-Sternenfest/2022-11-27-Sternenfest03.jpg", "2022-11-27-Sternenfest03" %}
+{% image "./src/assets/images/2022-11-27-Sternenfest/2022-11-27-Sternenfest04.jpg", "2022-11-27-Sternenfest04" %}
+{% image "./src/assets/images/2022-11-27-Sternenfest/2022-11-27-Sternenfest05.jpg", "2022-11-27-Sternenfest05" %}
+{% image "./src/assets/images/2022-11-27-Sternenfest/2022-11-27-Sternenfest06.jpg", "2022-11-27-Sternenfest06" %}
