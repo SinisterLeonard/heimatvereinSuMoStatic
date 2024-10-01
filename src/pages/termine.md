@@ -5,8 +5,22 @@ description: Termine
 layout: page
 ---
 
-### Anstehende Termine 2023
+### Anstehende Termine 2024
 
-{% imagePlaceholder "./src/assets/images/Einladungen/EinladungSternefest01.jpg", "2023-11-15-EinladungSternefest" %}
+- 18.02.2024 Präsentation und Führung über das Lager Neusustrum ✅
 
-<!-- <iframe width="640" height="1280" src="https://cloud.heimatverein.sustrum-moor.net/apps/calendar/embed/3cawyfLimRLHk2cn"></iframe> -->
+- 09.03.2024 Müllsammelaktion ✅
+
+- 05.04.2024 Säen von Wildblumen mit den Grundschülern bei der Streuobstwiese (verschoben)
+
+- 15.05.2024 Klönabend
+
+- 09.06.2024 Fahrradtour nach Haren (Ems) zur Inselmühle (Ausstellung Maczkow)
+
+- 13.10.2024 Apfelfest
+
+- 25.10.2024 Generalversammlung Heimatverein
+
+- 30.11.2024 Sternenfest „Weihnachtsflair unterm Sternenmeer“
+
+Führungen und Vorträge über das ehemalige Lager Neusustrum in den Monaten April 2024 bis Ende September 2024 für Gruppen oder Vereine (bitte mit Voranmeldung).

@@ -9,6 +9,10 @@ module.exports = {
       url: '/blog/'
     },
     {
+      text: 'Old-Youngtimer',
+      url: '/oldyoungtimer/'
+    },
+    {
       text: 'Gebäudehistorie',
       url: '/haus/'
     },
